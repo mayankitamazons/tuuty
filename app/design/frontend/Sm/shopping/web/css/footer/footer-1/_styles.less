@@ -1,0 +1,239 @@
+/**
+ * Footer 1
+ */
+
+.footer-wrapper {
+    background-color: #f5f5f5;
+    padding-top: 50px;
+}
+
+.footer-top {
+    margin-bottom: 45px;
+}
+
+.social-title {
+    font-size: 150%;
+    text-transform: uppercase;
+    color: #fff;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+.title-follow {
+    display: none;
+}
+
+.social-container {
+    background: url("../images/bg-social-footer.jpg") no-repeat top center;
+    padding: 29px 20px;
+    text-align: center;
+}
+
+.socials-wrap {
+    display: inline-block;
+    vertical-align: middle;
+
+    ul {
+        li {
+            display: inline-block;
+            vertical-align: top;
+            margin: 0 3px;
+
+            a {
+                display: block;
+                width: 42px;
+                height: 42px;
+                line-height: 42px;
+                text-align: center;
+                font-size: 18px;
+                color: #fff;
+                background-color: rgba(255, 255, 255, 0.2);
+                .border_radius(3px);
+
+                .name-social {
+                    display: none;
+                }
+            }
+        }
+    }
+}
+
+.block-footer {
+    margin-bottom: 35px;
+
+    .title-block-footer {
+        font-size: 133.33%;
+        color: #222;
+        text-transform: uppercase;
+        font-weight: 600;
+        position: relative;
+        padding-bottom: 5px;
+        margin-bottom: 25px;
+
+        &:before {
+            content: "";
+            display: block;
+            width: 40px;
+            height: 2px;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+        }
+    }
+
+    ul li {
+        margin-bottom: 10px;
+
+        a {
+            color: #666;
+
+            &:before {
+                .font-awesome(f192, 8px);
+                margin-right: 5px;
+                position: relative;
+                top: -1px;
+            }
+        }
+    }
+
+    .app-list {
+        display: table;
+        width: 100%;
+
+        li {
+            float: left;
+            margin-right: 10px;
+
+            a:before {
+                display: none;
+            }
+        }
+    }
+}
+
+.des-seo-struct {
+    padding: 40px 0;
+    border-top: 1px solid #e5e5e5;
+}
+
+.des-footer {
+    margin-bottom: 25px;
+
+    ul li {
+        margin-bottom: 12px;
+
+        .hightlight {
+            font-weight: 600;
+            color: #333;
+        }
+    }
+}
+
+.struct {
+    ul li {
+        margin-bottom: 5px;
+
+        .hightlight {
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #333;
+        }
+    }
+}
+
+.block-subscribe-footer {
+    margin-bottom: 30px;
+
+    .newsletter-content {
+        display: table;
+    }
+
+    .title-middle-footer {
+        display: none;
+    }
+
+    .input-box {
+        display: table-cell;
+        vertical-align: top;
+        width: 100%;
+
+        #newsletter-footer {
+            .border_radius(3px 0 0 3px);
+        }
+    }
+
+    .action-button {
+        display: table-cell;
+        vertical-align: top;
+
+        button {
+            .border_radius(0px 3px 3px 0);
+        }
+    }
+}
+
+.footer-bottom {
+    background-color: #222;
+    padding: 17px 0;
+    color: #fff;
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    address {
+        margin-top: 5px;
+    }
+}
+
+.payment-footer {
+    text-align: right;
+}
+
+.logo-footer {
+    margin-bottom: 20px;
+}
+
+.about-shop {
+    ul li {
+        padding: 10px 0 10px 32px;
+        position: relative;
+        margin-bottom: 8px;
+
+        &:before {
+            content: "";
+            display: block;
+            width: 30px;
+            height: 30px;
+            background-image: url("../images/icon-image.png");
+            background-repeat: no-repeat;
+            position: absolute;
+        }
+
+        &.address:before {
+            background-position: -33px -22px;
+            left: 0;
+            top: 15px;
+        }
+
+        &.phone:before {
+            background-position: -32px -65px;
+            left: 0;
+            top: 4px;
+        }
+
+        &.email:before {
+            background-position: -32px -111px;
+            left: 0;
+            top: 4px;
+        }
+
+        &.time-open:before {
+            background-position: -32px -156px;
+            left: 0;
+            top: 4px;
+        }
+    }
+}

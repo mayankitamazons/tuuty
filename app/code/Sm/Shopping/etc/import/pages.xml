@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<root>
+	<pages>
+		<cms_item>
+			<title>404 Not Found</title>
+			<identifier>no-route</identifier>
+			<content_heading/>
+			<content>
+				<![CDATA[<div class="wrapper_404page">
+<div class="col-lg-7 col-md-7">
+<div class="content-404page">
+<p class="top-text">Don't worry you will be back on track in no time!</p>
+<p class="img-404"><img src="{{media url="wysiwyg/404image/404-img-text.png"}}" alt="" /></p>
+<p class="bottom-text">Page doesn't exist or some other error occured. Go to our home page or go back previous page</p>
+<div class="button-404"><a class="btn-404 prev-page-btn" title="PREVIOUS PAGE" onclick="goBack()" href="javascript:void(0);">PREVIOUS PAGE</a> <a class="btn-404 back2home" title="BACK TO HOMEPAGE" href="{{store url=""}}">BACK TO HOMEPAGE</a></div>
+</div>
+</div>
+<div class="col-lg-5 col-md-5">
+<div class="img-right-404"><img src="{{media url="wysiwyg/404image/404-image.png"}}" alt="" /></div>
+</div>
+<div style="clear: both; height: 0px;">&nbsp;</div>
+<script type="text/javascript">
+	function goBack() {
+		window.history.back()
+	}
+</script>
+</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<page_layout>1column</page_layout>
+			<layout_update_xml>
+				<![CDATA[]]>
+			</layout_update_xml>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Daily Deals</title>
+			<identifier>daily-deals</identifier>
+			<content_heading/>
+			<content>
+				<![CDATA[<div class="extend-container">
+	<div class="product-extend">
+		{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="Daily Deals" type_show="loadmore" type_listing="deals" display_countdown="1" under_price="100" type_filter="categories" field_tabs="" category_select="" category_tabs="97,98,99" order_by="created_at" order_dir="ASC" limitation="6" product_row="1" show_description="0" nbcolum1="1" nbcolum2="2" nbcolum3="2" nbcolum4="2" nbcolum5="2" margin="30" nav="true" dot="false"}}
+	</div>
+</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<page_layout>2columns-left</page_layout>
+			<layout_update_xml>
+				<![CDATA[]]>
+			</layout_update_xml>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Under $100</title>
+			<identifier>under-price</identifier>
+			<content_heading/>
+			<content>
+				<![CDATA[<div class="extend-container">
+	<div class="product-extend">
+		{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="Under Price $100" type_show="loadmore" type_listing="under" display_countdown="0" under_price="100" type_filter="categories" field_tabs="" category_select="" category_tabs="97,98,99" order_by="ordered_qty" order_dir="ASC" limitation="6" product_row="1" show_description="0" nbcolum1="1" nbcolum2="2" nbcolum3="2" nbcolum4="2" nbcolum5="2" margin="30" nav="true" dot="false"}}
+	</div>
+</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<page_layout>2columns-left</page_layout>
+			<layout_update_xml>
+				<![CDATA[]]>
+			</layout_update_xml>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Home - SM Shopping - Magento 2</title>
+			<identifier>home-demo-01</identifier>
+			<content_heading/>
+			<content>
+				<![CDATA[<div class="home-page-1">
+	{{block class="Magento\\Cms\\Block\\Block" block_id="id1-block1"}}
+	
+	{{block class="Magento\\Cms\\Block\\Block" block_id="id1-block2"}}
+
+	<div class="row">
+		<div class="col-lg-9 col-left">
+			{{block class="Magento\\Cms\\Block\\Block" block_id="id1-block3"}}
+		</div>
+		
+		<div class="col-lg-3 col-right">
+			{{block class="Magento\\Cms\\Block\\Block" block_id="id1-block4"}}
+		</div>
+	</div>
+
+	{{block class="Magento\\Cms\\Block\\Block" block_id="id1-block5"}}
+	
+</div>
+]]>
+			</content>
+			<is_active>1</is_active>
+			<page_layout>1column</page_layout>
+			<layout_update_xml>
+				<![CDATA[]]>
+			</layout_update_xml>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Home - SM Shopping - Index 2 - Magento 2</title>
+			<identifier>home-demo-02</identifier>
+			<content_heading/>
+			<content>
+				<![CDATA[<div class="home-page-2">
+	{{block class="Magento\\Cms\\Block\\Block" block_id="id2-block1"}}
+	
+	{{block class="Magento\\Cms\\Block\\Block" block_id="id2-block2"}}
+	
+	{{block class="Magento\\Cms\\Block\\Block" block_id="id2-block3"}}
+	
+	{{block class="Magento\\Cms\\Block\\Block" block_id="id2-block4"}}
+</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<page_layout>1column</page_layout>
+			<layout_update_xml>
+				<![CDATA[]]>
+			</layout_update_xml>
+			<store_id>0</store_id>
+		</cms_item>
+	</pages>
+</root>

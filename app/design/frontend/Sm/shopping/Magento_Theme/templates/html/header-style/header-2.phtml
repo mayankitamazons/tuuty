@@ -1,0 +1,68 @@
+<div class="header-container header-style-2" style="background: #01b786;">
+	
+    <div class="header-middle">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 logo-header">
+					<?php echo $block->getChildHtml('logo_theme'); ?>
+				</div>
+
+                <div class="col-lg-5 search-header">
+					<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('megamenu-horizontal')->toHtml(); ?>
+                </div>
+
+				<div class="col-lg-4 cart-header">
+					<div style="float:left">
+						<div class="toplinks" style="display: grid;margin-left: 15px;margin-top: 10px;">
+			                        	<?php echo $block->getChildHtml('header.links'); ?>
+			                    	</div>
+			                    	<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('track-order')->toHtml(); ?>
+		                    	</div>
+		                    <div class="minicart-header">
+		                        <div class="minicart-content">
+		                            <?php echo $block->getChildHtml('cart-header'); ?>
+		                        </div>
+		                    </div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+    <div class="header-bottom">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 sidebar-megamenu">
+					<div class="megamenu-content-sidebar">
+						<div class="btn-megamenu">
+							<a href="javascript:void(0)" title="<?php echo __('All Department') ?>"><?php echo __('All Department') ?></a>
+						</div>
+
+						<div class="menu-ver-content">
+							<?php
+							if ($_config->getGeneral('menu_style') == 'megamenu') {
+								echo $block->getChildHtml('navigation-header-megamenu');
+							} else {
+								echo $block->getChildHtml('navigation-header');
+							}
+							?>
+						</div>
+					</div>
+
+					<div class="navigation-mobile-container">
+						<?php echo $block->getChildHtml('navigation.mobile'); ?>
+					</div>
+				</div>
+
+				<div class="col-lg-9 main-megamenu">
+					<div class="search-hotline">
+						<div class="searchbox-header">
+							<?php echo $block->getChildHtml('search-header-pro'); ?>
+						</div>
+
+						<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('hotline-header')->toHtml(); ?>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,1791 @@
+<?xml version="1.0"?>
+<root>
+	<blocks>
+		<cms_item>
+			<title>Shopping - Payment Footer</title>
+			<identifier>payment-footer</identifier>
+			<content>
+				<![CDATA[<div class="payment-footer"><img src="{{media url="wysiwyg/footer/payment-footer.png"}}" alt="Payment" /></div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - About Us Page</title>
+			<identifier>about-us-page</identifier>
+			<content>
+				<![CDATA[<div class="aboutus-page">
+<div class="row box-1-about">
+<div class="col-md-9 welcome-about-us">
+<div class="title-about-us">
+<h2>Welcome To Shop</h2>
+</div>
+<div class="content-about-us">
+<div class="image-about-us"><img src="{{media url="wysiwyg/about-us.png"}}" alt="About Us" /></div>
+<div class="des-about-us">Nulla auctor mauris ut dui luctus semper. In hac habitasse platea dictumst. Duis pellentesque ligula a risus suscipit dignissim. Nunc non nisl lacus. Integer pharetra lacinia dapibus. Donec eu dolor dui, vel posuere mauris.<br /><br /> Pellentesque semper congue sodales. In consequat, metus eget con sequat ornare, augue dolor blandit purus, vitae lacinia nisi tellus in erat. Nulla ac justo eget massa aliquet sodales. Maecenas mattis male suada sem, in fringilla massa dapibus quis. Suspendisse aliquam leo id neque auctor molestie. Etiam at nulla tellus.<br /><br /> Nulla auctor mauris ut dui luctus semper. In hac habitasse platea dictumst. Duis pellentesque ligula a risus suscipit dignissim.</div>
+</div>
+</div>
+<div class="col-md-3 why-choose-us">
+<div class="title-about-us">
+<h2>Why Choose Us</h2>
+</div>
+<div class="content-why">
+<ul class="why-list">
+<li><a title="Shipping &amp; Returns" href="#">Shipping &amp; Returns</a></li>
+<li><a title="Secure Shopping" href="#">Secure Shopping</a></li>
+<li><a title="International Shipping" href="#">International Shipping</a></li>
+<li><a title="Affiliates" href="#">Affiliates</a></li>
+<li><a title="Group Sales" href="#">Group Sales</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-12 our-member">
+<div class="title-about-us">
+<h2>Our Member</h2>
+</div>
+<div class="short-des">Consectetur adipiscing elit. Donec pellentesque venenatis elit, quis aliquet mauris malesuada vel. Donec vitae libero dolor, eget dapibus justo.<br />Aenean facilisis aliquet feugiat. Suspendisse lacinia congue est ac semper. Nulla ut elit magna, vitae volutpat magna.</div>
+<div class="sm_imageslider slider-ourmember">
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-1.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Tech Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-2.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Manager</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-3.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Art Director</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-4.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-1.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Tech Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-2.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Manager</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-3.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Art Director</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-4.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-1.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Tech Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-4.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-4.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="{{media url="wysiwyg/cl-image-3.png"}}" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	require([
+		'jquery',
+		'owlcarousel'
+	], function ($) {
+				$('.slider-ourmember').owlCarousel({
+					pagination: false,
+					center: false,
+					nav: true,
+					loop: false,
+					margin: 30,
+					navText: [ 'prev', 'next' ],
+					slideBy: 1,
+					autoplay: false,
+					autoplayTimeout: 2500,
+					autoplayHoverPause: true,
+					autoplaySpeed: 800,
+					startPosition: 0, 
+					responsive:{
+						0:{
+							items:1
+						},
+						480:{
+							items:2
+						},
+						768:{
+							items:3
+						},
+						1200:{
+							items:4
+						}
+					}
+				});	  
+			});
+</script>
+</div>
+<div class="col-md-12 happy-about-us">
+<div id="slider-happy-about-us" class="happy-ab carousel slide" data-ride="carousel">
+<div class="title-happy-about">
+<h2>Happy customer says</h2>
+</div>
+<div class="sm_imageslider slider-happy-client">
+<div class="item active">
+<div class="ct-why">
+<div class="client-say">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis neque eget nulla. Curabitur dictum consectetur metus nec dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis.</div>
+<p class="client-info-about"><span class="name">- Mama Duo - </span>Social Media Strategist</p>
+</div>
+</div>
+<div class="item">
+<div class="ct-why">
+<div class="client-say">In congue, justo non cursus adipiscing, dui nibh scelerisque justo, lorem ipsum dolor sit amet, consectetur adipiscing elit. quis pretium turpis neque eget nulla. Curabitur dictum consectetur metus nec dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis.</div>
+<p class="client-info-about"><span class="name">- Jonh Doe - </span>Supporter</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	require([
+		'jquery',
+		'owlcarousel'
+	], function ($) {
+					$('.slider-happy-client').owlCarousel({
+						pagination: false,
+						center: false,
+						nav: true,
+						loop: false,
+						margin: 30,
+						navText: [ 'prev', 'next' ],
+						slideBy: 1,
+						autoplay: false,
+						autoplayTimeout: 2500,
+						autoplayHoverPause: true,
+						autoplaySpeed: 800,
+						startPosition: 0, 
+						responsive:{
+							0:{
+								items:1
+							},
+							480:{
+								items:1
+							},
+							768:{
+								items:1
+							},
+							1200:{
+								items:1
+							}
+						}
+					});	  
+				});
+</script>
+</div>
+</div>
+</div>
+</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Market - Contact Us Google Map</title>
+			<identifier>google-map</identifier>
+			<content>
+				<![CDATA[<div class="google-map"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8402891185415!2d144.95373631585633!3d-37.817209742014676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1svi!2s!4v1527494727294" width="600" height="450" frameborder="0" allowfullscreen=""></iframe></div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Product Megamenu</title>
+			<identifier>product-megamenu</identifier>
+			<content>
+				<![CDATA[<div class="product-megamenu">{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-menu.phtml" title_module="Featured Product" display_countdown="0" product_source="lastest_products" select_category="98" product_limitation="1"}}</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Megamenu Horizontal</title>
+			<identifier>megamenu-horizontal</identifier>
+			<content>
+				<![CDATA[{{block class="Sm\MegaMenu\Block\MegaMenu\View" template="Sm_MegaMenu::megamenu-horizontal.phtml" theme="1" group_id="2"}}]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Newsletter Info</title>
+			<identifier>newsletter-info</identifier>
+			<content>
+				<![CDATA[<h2 class="newsletter-title">Newsletter</h2>
+<p class="description-newsletter">Please sign up to the Market mailing list to receive updates on special offers and other discount information</p>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Social Newsletter Popup</title>
+			<identifier>social-newsletter-popup</identifier>
+			<content>
+				<![CDATA[<ul class="social-list">
+									<li><a href="#" title="title"><i class="fa fa-facebook"></i><span class="hidden">Facebook</span></a></li>
+									<li><a href="#" title="title"><i class="fa fa-twitter"></i><span class="hidden">Twitter</span></a></li>
+									<li><a href="#" title="title"><i class="fa fa-google-plus"></i><span class="hidden">Google</span></a></li>
+									<li><a href="#" title="title"><i class="fa fa-tumblr"></i><span class="hidden">Tumblr</span></a></li>
+									<li><a href="#" title="title"><i class="fa fa-pinterest"></i><span class="hidden">Pinterest</span></a></li>
+									<li><a href="#" title="title"><i class="fa fa-linkedin"></i><span class="hidden">Linkedin</span></a></li>
+								</ul>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Short Description Newsletter Popup</title>
+			<identifier>short-description-newsletter-popup</identifier>
+			<content>
+				<![CDATA[Subscribe to the Shopping mailing list to receive updates on new arrivals, special offers and other discount information.]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Product Sidebar</title>
+			<identifier>product-sidebar</identifier>
+			<content>
+				<![CDATA[{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-sidebar.phtml" title_module="Best Sellers" product_row="4" display_countdown="0" product_source="best_sellers" select_category="185,186,187,188,266,267,268,269,270,271,272" product_limitation="12"}}]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Services Sidebar Product Page</title>
+			<identifier>service-sidebar</identifier>
+			<content>
+				<![CDATA[<div class="services-sidebar">
+	<ul>
+		<li>
+			<div class="service-content">
+				<div class="service-icon" style="font-size: 30px;">
+					<em class="fa fa-truck"><span class="hidden">Icon</span></em>
+				</div>
+				
+				<div class="service-info">
+					<h4><a href="#" title="Free Delivery">Free Delivery</a></h4>
+					<p>From $59.89</p>
+				</div>
+			</div>
+		</li>
+		
+		<li>
+			<div class="service-content">
+				<div class="service-icon" style="font-size: 30px;">
+					<em class="fa fa-support"><span class="hidden">Icon</span></em>
+				</div>
+				
+				<div class="service-info">
+					<h4><a href="#" title="Support 24/7">Support 24/7</a></h4>
+					<p>Online 24 hours</p>
+				</div>
+			</div>
+		</li>
+		
+		<li>
+			<div class="service-content">
+				<div class="service-icon" style="font-size: 30px;">
+					<em class="fa fa-refresh"><span class="hidden">Icon</span></em>
+				</div>
+				
+				<div class="service-info">
+					<h4><a href="#" title="Free return">Free return</a></h4>
+					<p>365 a day</p>
+				</div>
+			</div>
+		</li>
+		
+		<li>
+			<div class="service-content">
+				<div class="service-icon" style="font-size: 25px; position: relative; top: 4px;">
+					<em class="fa fa-cc-paypal"><span class="hidden">Icon</span></em>
+				</div>
+				
+				<div class="service-info">
+					<h4><a href="#" title="payment method">payment method</a></h4>
+					<p>Secure payment</p>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Footer 1 Content</title>
+			<identifier>footer-1-content</identifier>
+			<content>
+				<![CDATA[<div class="container">
+	<div class="footer-top">
+		<div class="row">
+			<div class="col-lg-3">
+				<div class="static-image">
+					<a href="#" title="Live Chat">
+						<img src="{{media url="wysiwyg/banner/banner-1.jpg"}}" alt="Live Chat" />
+					</a>
+				</div>
+			</div>
+
+			<div class="col-lg-6">
+				<div class="social-container">
+					<div class="social-title">
+						Follow Socials
+					</div>
+					{{block class="Magento\Framework\View\Element\Template" template="Magento_Theme::html/social.phtml"}}
+				</div>
+			</div>
+				
+
+			<div class="col-lg-3">
+				<div class="static-image">
+					<a href="#" title="Live Chat">
+						<img src="{{media url="wysiwyg/banner/banner-2.jpg"}}" alt="Banner" />
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="footer-middle">
+		<div class="row">
+			<div class="col-lg-3">
+				<div class="logo-footer">
+					<h2><img src="{{media url="wysiwyg/footer/logo-footer.png"}}" alt="Logo Footer" /></h2>
+				</div>
+						
+				<div class="about-shop">
+					<ul>
+						<li class="address">San Luis Potosis Centro Historico, 78000 San Luis Potosis, SLP, Mexico</li>
+						<li class="phone">(+0214)0 315 215 - (+0214)0 315 215</li>
+						<li class="email">Support_emarket@domain.com</li>
+						<li class="time-open">Open time: 8:00AM - 16:PM</li>
+					</ul>
+				</div>
+			</div>
+			
+			<div class="col-lg-2">
+				<div class="block-footer">
+					<div class="title-block-footer">
+						Our Services
+					</div>
+					
+					<div class="content-block-footer">
+						<ul>
+							<li><a href="#" title="My Account">My Account</a></li>
+							<li><a href="#" title="Track your Order">Track your Order</a></li>
+							<li><a href="#" title="Wishlist">Wishlist</a></li>
+							<li><a href="#" title="Customer Service">Customer Service</a></li>
+							<li><a href="#" title="Returns / Exchange">Returns / Exchange</a></li>
+							<li><a href="#" title="Faq">Faq?</a></li>
+							<li><a href="#" title="Support">Support</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-2">
+				<div class="block-footer">
+					<div class="title-block-footer">
+						Categories
+					</div>
+					
+					<div class="content-block-footer">
+						<ul>
+							<li><a href="#" title="Industrial Parts & Tools">Industrial Parts & Tools</a></li>
+							<li><a href="#" title="Health & Beauty">Health & Beauty</a></li>
+							<li><a href="#" title="Gifts, Sports & Toys">Gifts, Sports & Toys</a></li>
+							<li><a href="#" title="Textiles & Accessories">Textiles & Accessories</a></li>
+							<li><a href="#" title="Packaging & Office">Packaging & Office</a></li>
+							<li><a href="#" title="Metallurgy, Chemicals">Metallurgy, Chemicals</a></li>
+							<li><a href="#" title="title">Arts, Crafts & Sewing</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-2">
+				<div class="block-footer">
+					<div class="title-block-footer">
+						Categories
+					</div>
+					
+					<div class="content-block-footer">
+						<ul>
+							<li><a href="#" title="Event & Party Supplies">Event & Party Supplies</a></li>
+							<li><a href="#" title="Home Improvement">Home Improvement</a></li>
+							<li><a href="#" title="Lamps & Light Fixtures">Lamps & Light Fixtures</a></li>
+							<li><a href="#" title="Kitchen & Bath Fixtures">Kitchen & Bath Fixtures</a></li>
+							<li><a href="#" title="Kitchen & Dining">Kitchen & Dining</a></li>
+							<li><a href="#" title="Stationery & Party Supplies">Stationery & Party Supplies</a></li>
+							<li><a href="#" title="All Categories">All Categories</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-3">
+				<div class="block-footer">
+					<div class="title-block-footer">
+						Newsletter
+					</div>
+					
+					<div class="content-block-footer">
+						<p>Shopping - Delivering the latest product trends and industry news straight to your inbox.</p>
+						{{block class="Magento\Newsletter\Block\Subscribe" template="subscribe-footer.phtml"}}
+						
+						<ul class="app-list">
+							<li><a href="#" title="Appstore"><img src="{{media url="wysiwyg/footer/app-1.jpg"}}" alt="Appstore" /></a></li>
+							<li><a href="#" title="Google Play"><img src="{{media url="wysiwyg/footer/app-2.jpg"}}" alt="Google Play" /></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	
+	<div class="des-seo-struct">
+		<div class="des-footer">
+			<ul>
+				<li>Online Shopping in UAE, Dubai & Abu Dhabi. Shopping.com is offering the lowest prices in UAE to offer the best online shopping experience in UAE.</li>
+				<li><span class="hightlight">About Us:</span> With the idea of creating the ideal destination for online shopping in UAE, Shopping.com was created back in 2013 with catalog of all electronic gadgets. It branched out to one-stop shop for products of all categories. Shopping.com makes it easy for you to shop easily from the comfort of your home. Shopping online at Shopping.com is simple, fast, secure and easy. </li>
+				<li><span class="hightlight">Products:</span> From mobiles to tablets, laptops to electronics, jewellery to cosmetics, watches to sunglasses, television to gaming consoles we pride ourselves on selling all the products that are hip, trend and are valuable to our customers at Shopping.com. We sell plethora of items from the brands you love to shop from including but not limited to Adidas, Apple, CK (Calvin Klein), HP (Hewlett-Packard), Microsoft and more. </li>
+				<li><span class="hightlight">Offers:</span> Shopping.com is one of the preferred stores for online shopping in UAE and for all the right reasons such as convenience, cost-effective, product quality and personalized service. We have wide range of offers available which provides you with an opportunity to buy always at low prices. We provided thousands of deals every day along with bundle of products to provide you even more savings. Payment & Shipping: We at ShopyMall.com make best effort for your shopping experience to be as hassle free and smooth as possible. We provide you multiple payment methods including cash on delivery and online payments. We also run our own logistics to make sure your purchased item(s) reaches you as quick as possible in the best possible condition.</li>
+			</ul>
+		</div>
+		
+		<div class="struct">
+			<ul>
+				<li><span class="hightlight">ALL OFFERS IN UAE:</span> Special offers/Daily Deals/Bundle offers</li>
+				<li><span class="hightlight">MOBILES & ACCESSORIES IN UAE:</span> Mobile Phones/Mobiles Accessories/Mobile Cases & Covers/Mobile Power Banks/Mobile Memory Cards</li>
+				<li><span class="hightlight">TABLETS & ACCESSORIES IN UAE:</span> Tablets/Tablet Accessories/Tablet Cases & Covers/Tablet Power Banks/Tablet Memory Cards</li>
+				<li><span class="hightlight">HOME & KITCHEN APPLIANCES IN UAE:</span> Blenders/Food Processors/Irons/Kettle/Kitchen Ware/Meat Grinders/Mincers/Microwave Ovens/Other Home Appliances/Cooker</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Index 1 - Top Tags - Slideshow - Banner</title>
+			<identifier>id1-block1</identifier>
+			<content>
+				<![CDATA[<div class="full-wrapper top-tags">
+		<div class="container">
+			<ul>
+				<li class="title-tag">Top Tags: </li>
+				<li><a href="#">Electronic Cigarettes</a></li>
+				<li><a href="#">Eye Makeup</a></li>
+				<li><a href="#">iPad Mini Cases</a></li>
+				<li><a href="#">iPhone 5 Cases</a></li>
+				<li><a href="#">RC Helicopters</a></li>
+				<li><a href="#">Tablets</a></li>
+				<li><a href="#">Laptops</a></li>
+				<li><a href="#">Mornitors</a></li>
+				<li><a href="#">Cameras</a></li>
+				<li><a href="#">Iwatchs</a></li>
+				<li><a href="#">Fashions</a></li>
+				<li><a href="#">Shops</a></li>
+			</ul>
+		</div>
+	</div>
+	
+
+	<div class="row">
+		<div class="col-lg-9">
+			<div class="slidershow">
+				<div class="owl-carousel">
+					<div class="item">
+						<a href="#" title="Slide 1"><img src="{{media url="wysiwyg/slideshow/home-1/item-1.jpg"}}" alt="Slide 1" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Slide 2"><img src="{{media url="wysiwyg/slideshow/home-1/item-2.jpg"}}" alt="Slide 2" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Slide 3"><img src="{{media url="wysiwyg/slideshow/home-1/item-3.jpg"}}" alt="Slide 3" /></a>
+					</div>
+				</div>
+				
+				<script type="text/javascript">
+					require([
+						'jquery',
+						'owlcarousel'
+					], function ($) {
+						$(".slidershow .owl-carousel").owlCarousel({
+							items:1,
+							autoplay:true,
+							loop:true,
+							nav : true, 
+							dots: true,
+							autoplaySpeed : 500,
+							navSpeed : 500,
+							dotsSpeed : 500,
+							autoplayHoverPause: true,
+							margin:1,
+						});	  
+					});			
+				</script>
+			</div>
+		</div>
+		
+		<div class="col-lg-3">
+			<div class="banner-content">
+				<div class="static-image">
+					<div class="item">
+						<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-3.jpg"}}" alt="Banner Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-4.jpg"}}" alt="Banner Image" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="banner-full">
+		<div class="static-image">
+			<div class="item">
+				<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-5.jpg"}}" alt="Banner Image" /></a>
+			</div>
+		</div>
+	</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Index 1 - Sale - Banner - Bundle Products - Banner</title>
+			<identifier>id1-block2</identifier>
+			<content>
+				<![CDATA[<div class="tab-sale">
+		{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="Flash sale" type_show="slider" type_listing="deals" display_countdown="1" type_filter="categories"  category_tabs="185,186,187,188,266,267" order_by="ordered_qty" order_dir="ASC" limitation="6" product_row="1" show_description="0" nbcolum1="1" nbcolum2="2" nbcolum3="3" nbcolum4="3" nbcolum5="5" margin="30" nav="true" dot="false"}}
+	</div>
+	
+	<div class="banner-column">
+		<div class="row">
+			<div class="col-lg-6 col-md-6 col-sm-6">
+				<div class="static-image">
+					<div class="item">
+						<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-6.jpg"}}" alt="Banner Image" /></a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-6 col-md-6 col-sm-6">
+				<div class="static-image">
+					<div class="item">
+						<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-7.jpg"}}" alt="Banner Image" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="group-product">
+		{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid.phtml" title_module="bundle products" display_countdown="0" product_source="best_sellers" select_category="110" product_limitation="4" thumb_limit="3" link_name="See All Bundle Products" link_url="#"}}
+	</div>
+	
+	<div class="banner-full banner-full-2">
+		<div class="static-image">
+			<div class="item">
+				<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-8.jpg"}}" alt="Banner Image" /></a>
+			</div>
+		</div>
+	</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Index 1 - Listingtabs - Banner - Main Column</title>
+			<identifier>id1-block3</identifier>
+			<content>
+				<![CDATA[{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="Electronics" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories"  category_tabs="185,186,187,188,266" order_by="num_rating_summary" order_dir="ASC" limitation="6" product_row="2" show_description="1" nbcolum1="1" nbcolum2="2" nbcolum3="2" nbcolum4="2" nbcolum5="2" margin="30" nav="true" dot="false"}}
+			
+			<div class="static-image">
+				<div class="item">
+					<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-9.jpg"}}" alt="Banner Image" /></a>
+				</div>
+			</div>
+			
+			{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="Fashion" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories"  category_tabs="268,269,270,271,272" order_by="num_rating_summary" order_dir="ASC" limitation="6" product_row="2" show_description="1" nbcolum1="1" nbcolum2="2" nbcolum3="2" nbcolum4="2" nbcolum5="2" margin="30" nav="true" dot="false"}}
+			
+			<div class="static-image">
+				<div class="item">
+					<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-10.jpg"}}" alt="Banner Image" /></a>
+				</div>
+			</div>
+			
+			{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="Health & Beauty" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories"  category_tabs="189,190,191,192,273" order_by="num_rating_summary" order_dir="ASC" limitation="6" product_row="2" show_description="1" nbcolum1="1" nbcolum2="2" nbcolum3="2" nbcolum4="2" nbcolum5="2" margin="30" nav="true" dot="false"}}
+			
+			<div class="static-image">
+				<div class="item">
+					<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-11.jpg"}}" alt="Banner Image" /></a>
+				</div>
+			</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Index 1 - Column Right</title>
+			<identifier>id1-block4</identifier>
+			<content>
+				<![CDATA[<div class="static-image">
+				<div class="item">
+					<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-12.jpg"}}" alt="Banner Image" /></a>
+				</div>
+			</div>
+			
+			{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-sidebar.phtml" title_module="Best Sellers" product_row="4" display_countdown="0" product_source="best_sellers" select_category="185,186,187,188,266,267,268,269,270,271,272" product_limitation="12"}}
+			
+			<div class="call-us">
+				<div class="static-image">
+					<div class="item">
+						<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/call-us.jpg"}}" alt="Call Image" /></a>
+					</div>
+				</div>
+				
+				<div class="services-content">
+					<ul>
+						<li>
+							<div class="sv-icon">
+								<img src="{{media url="wysiwyg/icon/icon-1.png"}}" alt="Icon Image" />
+							</div>
+							
+							<div class="sv-content">
+								<h4>Free Delivery</h4>
+								<p>On Order Over $49.86</p>
+							</div>
+						</li>
+						
+						<li>
+							<div class="sv-icon">
+								<img src="{{media url="wysiwyg/icon/icon-2.png"}}" alt="Icon Image" />
+							</div>
+							
+							<div class="sv-content">
+								<h4>Order protection</h4>
+								<p>Secured Information</p>
+							</div>
+						</li>
+						
+						<li>
+							<div class="sv-icon">
+								<img src="{{media url="wysiwyg/icon/icon-3.png"}}" alt="Icon Image" />
+							</div>
+							
+							<div class="sv-content">
+								<h4>Promotion Gift</h4>
+								<p>Special Offers!</p>
+							</div>
+						</li>
+						
+						<li>
+							<div class="sv-icon">
+								<img src="{{media url="wysiwyg/icon/icon-4.png"}}" alt="Icon Image" />
+							</div>
+							
+							<div class="sv-content">
+								<h4>Money back</h4>
+								<p>Return over 30 Days</p>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			
+			{{widget type="Magefan\Blog\Block\Widget\Recent" custom_template="Magefan_Blog::widget/recent-1.phtml" title="Latest Blog" number_of_posts="3" category_id="0"}}
+			
+			<div class="client-slider">
+				<div class="owl-carousel">
+					<div class="item">
+						<div class="client-image">
+							<img src="{{media url="wysiwyg/clients/client-1.jpg"}}" alt="Client Image" />
+						</div>
+						
+						<div class="client-info">
+							<div class="client-name">Johny Walker</div>
+							<div class="client-description">Lorem ipsum dolor sit amet, conmetur asdipiscing elit,sed doeiusmod temporaceimdid tempora ut labore et dolore.</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="client-image">
+							<img src="{{media url="wysiwyg/clients/client-2.jpg"}}" alt="Client Image" />
+						</div>
+						
+						<div class="client-info">
+							<div class="client-name">Johny Walker</div>
+							<div class="client-description">Lorem ipsum dolor sit amet, conmetur asdipiscing elit,sed doeiusmod temporaceimdid tempora ut labore et dolore.</div>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="client-image">
+							<img src="{{media url="wysiwyg/clients/client-3.jpg"}}" alt="Client Image" />
+						</div>
+						
+						<div class="client-info">
+							<div class="client-name">Johny Walker</div>
+							<div class="client-description">Lorem ipsum dolor sit amet, conmetur asdipiscing elit,sed doeiusmod temporaceimdid tempora ut labore et dolore.</div>
+						</div>
+					</div>
+				</div>
+				
+				<script type="text/javascript">
+					require([
+						'jquery',
+						'owlcarousel'
+					], function ($) {
+						$(".client-slider .owl-carousel").owlCarousel({
+							items:1,
+							autoplay:true,
+							loop:true,
+							nav : false, 
+							dots: true,
+							autoplaySpeed : 500,
+							navSpeed : 500,
+							dotsSpeed : 500,
+							autoplayHoverPause: true,
+							margin:30,
+						});	  
+					});			
+				</script>
+			</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Index 1 - Tablisting Bottom - Brand Slider</title>
+			<identifier>id1-block5</identifier>
+			<content>
+				<![CDATA[<div class="tab-bottom">
+		{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="You may also like" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories"  category_tabs="185,186,187,188,266,267" order_by="num_rating_summary" order_dir="ASC" limitation="8" product_row="1" show_description="0" nbcolum1="1" nbcolum2="2" nbcolum3="3" nbcolum4="4" nbcolum5="6" margin="30" nav="true" dot="false"}}
+	</div>
+	
+	<div class="brand-slider">
+		<div class="title-home-page">
+			<span>Hot Brands</span>
+		</div>
+		
+		<div class="brand-content">
+			<div class="slider-content">
+				<div class="owl-carousel">
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-1.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-2.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-3.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-4.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-5.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-6.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-1.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-2.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-3.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-4.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-5.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-6.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-1.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-2.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-3.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-4.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-5.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img src="{{media url="wysiwyg/brand/brand-6.jpg"}}" alt="Brand Image" /></a>
+					</div>
+				</div>
+				
+				<script type="text/javascript">
+					require([
+						'jquery',
+						'owlcarousel'
+					], function ($) {
+						$(".slider-content .owl-carousel").owlCarousel({
+							autoplay:false,
+							loop:true,
+							nav : false, 
+							dots: true,
+							autoplaySpeed : 500,
+							navSpeed : 500,
+							dotsSpeed : 500,
+							autoplayHoverPause: true,
+							margin:0,
+							
+							responsive: {
+								0: {
+									items: 2
+								},
+								480: {
+									items: 3
+								},
+								768: {
+									items: 4
+								},
+								991: {
+									items: 5
+								},						
+								1200: {
+									items: 6
+								}
+							}
+						});	  
+					});			
+				</script>
+			</div>
+		</div>
+	</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Track Order</title>
+			<identifier>track-order</identifier>
+			<content>
+				<![CDATA[<div class="track-order">
+                        <a href="#">Track You Order</a>
+                    </div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Hot Line Header</title>
+			<identifier>hotline-header</identifier>
+			<content>
+				<![CDATA[<div class="hotline-header">
+                            Hotline <span>(888) 94344 6000</span>
+                        </div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Footer 2 Content</title>
+			<identifier>footer-2-content</identifier>
+			<content>
+				<![CDATA[<div class="container">
+	<div class="footer-middle">
+		<div class="row">
+			<div class="col-lg-3">
+				<div class="logo-footer">
+					<h2><img src="{{media url="wysiwyg/footer/logo-footer-2.png"}}" alt="Logo Footer" /></h2>
+				</div>
+				
+				<p class="shop-description">
+					Lorem ipsum dolor sit amet, consectetur adipisci
+					ng elit, sed do eiusmod tempor incididunt ut labo
+					re et dolore magna aliqua. Ut enim ad minim
+					veniam, quis nostrud exercitation...
+				</p>
+				
+				<a class="shop-more" href="#">Read More</a>
+				
+				<ul class="app-list">
+					<li><a href="#" title="Appstore"><img src="{{media url="wysiwyg/footer/app-3.png"}}" alt="Appstore" /></a></li>
+					<li><a href="#" title="Google Play"><img src="{{media url="wysiwyg/footer/app-4.png"}}" alt="Google Play"></a></li>
+				</ul>
+
+			</div>
+			
+			<div class="col-lg-2">
+				<div class="block-footer">
+					<div class="title-block-footer">
+						Our Services
+					</div>
+					
+					<div class="content-block-footer">
+						<ul>
+							<li><a href="#" title="My Account">My Account</a></li>
+							<li><a href="#" title="Track your Order">Track your Order</a></li>
+							<li><a href="#" title="Wishlist">Wishlist</a></li>
+							<li><a href="#" title="Customer Service">Customer Service</a></li>
+							<li><a href="#" title="Returns / Exchange">Returns / Exchange</a></li>
+							<li><a href="#" title="Faq">Faq?</a></li>
+							<li><a href="#" title="Support">Support</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-2">
+				<div class="block-footer">
+					<div class="title-block-footer">
+						Categories
+					</div>
+					
+					<div class="content-block-footer">
+						<ul>
+							<li><a href="#" title="Industrial Parts & Tools">Industrial Parts & Tools</a></li>
+							<li><a href="#" title="Health & Beauty">Health & Beauty</a></li>
+							<li><a href="#" title="Gifts, Sports & Toys">Gifts, Sports & Toys</a></li>
+							<li><a href="#" title="Textiles & Accessories">Textiles & Accessories</a></li>
+							<li><a href="#" title="Packaging & Office">Packaging & Office</a></li>
+							<li><a href="#" title="Metallurgy, Chemicals">Metallurgy, Chemicals</a></li>
+							<li><a href="#" title="title">Arts, Crafts & Sewing</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-2">
+				<div class="block-footer">
+					<div class="title-block-footer">
+						Categories
+					</div>
+					
+					<div class="content-block-footer">
+						<ul>
+							<li><a href="#" title="Event & Party Supplies">Event & Party Supplies</a></li>
+							<li><a href="#" title="Home Improvement">Home Improvement</a></li>
+							<li><a href="#" title="Lamps & Light Fixtures">Lamps & Light Fixtures</a></li>
+							<li><a href="#" title="Kitchen & Bath Fixtures">Kitchen & Bath Fixtures</a></li>
+							<li><a href="#" title="Kitchen & Dining">Kitchen & Dining</a></li>
+							<li><a href="#" title="Stationery & Party Supplies">Stationery & Party Supplies</a></li>
+							<li><a href="#" title="All Categories">All Categories</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-3">
+				<div class="block-footer">
+					<div class="title-block-footer">
+						About Us
+					</div>
+					
+					<div class="content-block-footer">
+						<div class="about-shop">
+							<ul>
+								<li class="address">San Luis Potosis Centro Historico, 78000 San Luis Potosis, SLP, Mexico</li>
+								<li class="phone">(+0214)0 315 215 - (+0214)0 315 215</li>
+								<li class="email">Support_emarket@domain.com</li>
+								<li class="time-open">Open time: 8:00AM - 16:PM</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	
+	<div class="social-newsletter">
+		<div class="row">
+			<div class="col-xl-6 col-lg-12">
+				<div class="social-container">
+					<div class="social-title">
+						Follow Socials
+					</div>
+					{{block class="Magento\Framework\View\Element\Template" template="Magento_Theme::html/social.phtml"}}
+				</div>
+			</div>
+			
+			<div class="col-xl-6 col-lg-12">
+				<div class="newsletter-container">
+					<div class="title-newsletter">
+						Sign Up For Newsletter
+					</div>
+					
+					<div class="content-block-footer">
+						{{block class="Magento\Newsletter\Block\Subscribe" template="subscribe-footer.phtml"}}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="des-seo-struct">
+		<div class="des-footer">
+			<ul>
+				<li>Online Shopping in UAE, Dubai & Abu Dhabi. Shopping.com is offering the lowest prices in UAE to offer the best online shopping experience in UAE.</li>
+				<li><span class="hightlight">About Us:</span> With the idea of creating the ideal destination for online shopping in UAE, Shopping.com was created back in 2013 with catalog of all electronic gadgets. It branched out to one-stop shop for products of all categories. Shopping.com makes it easy for you to shop easily from the comfort of your home. Shopping online at Shopping.com is simple, fast, secure and easy. </li>
+				<li><span class="hightlight">Products:</span> From mobiles to tablets, laptops to electronics, jewellery to cosmetics, watches to sunglasses, television to gaming consoles we pride ourselves on selling all the products that are hip, trend and are valuable to our customers at Shopping.com. We sell plethora of items from the brands you love to shop from including but not limited to Adidas, Apple, CK (Calvin Klein), HP (Hewlett-Packard), Microsoft and more. </li>
+				<li><span class="hightlight">Offers:</span> Shopping.com is one of the preferred stores for online shopping in UAE and for all the right reasons such as convenience, cost-effective, product quality and personalized service. We have wide range of offers available which provides you with an opportunity to buy always at low prices. We provided thousands of deals every day along with bundle of products to provide you even more savings. </li>
+				<li><span class="hightlight">Payment & Shipping:</span> We at Shopping.com make best effort for your shopping experience to be as hassle free and smooth as possible. We provide you multiple payment methods including cash on delivery and online payments. We also run our own logistics to make sure your purchased item(s) reaches you as quick as possible in the best possible condition.</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Banner Image Electronic</title>
+			<identifier>banner-tab-1</identifier>
+			<content>
+				<![CDATA[<div class="cms-tab">
+	<div class="static-image">
+		<a href="#" title="Banner Image"><img class="mark-lazy" src="{{media url="wysiwyg/banner/banner-tab-1.jpg"}}" alt="Banner Image" /></a>
+	</div>
+</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Banner Image Fashion</title>
+			<identifier>banner-tab-2</identifier>
+			<content>
+				<![CDATA[<div class="cms-tab">
+	<div class="static-image">
+		<a href="#" title="Banner Image"><img class="mark-lazy" src="{{media url="wysiwyg/banner/banner-tab-2.jpg"}}" alt="Banner Image" /></a>
+	</div>
+</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Banner Image Beauty Spa</title>
+			<identifier>banner-tab-3</identifier>
+			<content>
+				<![CDATA[<div class="cms-tab">
+	<div class="static-image">
+		<a href="#" title="Banner Image"><img class="mark-lazy" src="{{media url="wysiwyg/banner/banner-tab-3.jpg"}}" alt="Banner Image" /></a>
+	</div>
+</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Index 2 - Top Tags - Block Slidershow - Banner</title>
+			<identifier>id2-block1</identifier>
+			<content>
+				<![CDATA[<div class="top-tags">
+		<ul>
+			<li class="title-tag">Top Tags: </li>
+			<li><a href="#">Electronic Cigarettes</a></li>
+			<li><a href="#">Eye Makeup</a></li>
+			<li><a href="#">iPad Mini Cases</a></li>
+			<li><a href="#">iPhone 5 Cases</a></li>
+			<li><a href="#">RC Helicopters</a></li>
+			<li><a href="#">Tablets</a></li>
+			<li><a href="#">Laptops</a></li>
+			<li><a href="#">Mornitors</a></li>
+			<li><a href="#">Cameras</a></li>
+			<li><a href="#">Iwatchs</a></li>
+			<li><a href="#">Fashions</a></li>
+			<li><a href="#">Shops</a></li>
+		</ul>
+	</div>
+	
+	<div class="slidershow">
+		<div class="owl-carousel">
+			<div class="item">
+				<a href="#" title="Slide 1"><img src="{{media url="wysiwyg/slideshow/home-2/item-1.jpg"}}" alt="Slide 1" /></a>
+			</div>
+			
+			<div class="item">
+				<a href="#" title="Slide 2"><img src="{{media url="wysiwyg/slideshow/home-2/item-2.jpg"}}" alt="Slide 2" /></a>
+			</div>
+			
+			<div class="item">
+				<a href="#" title="Slide 3"><img src="{{media url="wysiwyg/slideshow/home-2/item-3.jpg"}}" alt="Slide 3" /></a>
+			</div>
+		</div>
+		
+		<script type="text/javascript">
+			require([
+				'jquery',
+				'owlcarousel'
+			], function ($) {
+				$(".slidershow .owl-carousel").owlCarousel({
+					items:1,
+					autoplay:true,
+					loop:true,
+					nav : true, 
+					dots: true,
+					autoplaySpeed : 500,
+					navSpeed : 500,
+					dotsSpeed : 500,
+					autoplayHoverPause: true,
+					margin:1,
+				});	  
+			});			
+		</script>
+	</div>
+	
+	<div class="banner-top">
+		<div class="row">
+			<div class="col-lg-4 col-md-4 col-banner">
+				<div class="static-image">
+					<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-13.jpg"}}" alt="Banner Image" /></a>
+				</div>
+			</div>
+			
+			<div class="col-lg-4 col-md-4 col-banner">
+				<div class="static-image">
+					<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-14.jpg"}}" alt="Banner Image" /></a>
+				</div>
+			</div>
+			
+			<div class="col-lg-4 col-md-4 col-banner">
+				<div class="static-image">
+					<a href="#" title="Banner Image"><img src="{{media url="wysiwyg/banner/banner-15.jpg"}}" alt="Banner Image" /></a>
+				</div>
+			</div>
+		</div>
+	</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Index 2 - Product Deal Slider - Banner Full</title>
+			<identifier>id2-block2</identifier>
+			<content>
+				<![CDATA[<div class="product-deals">
+		<div class="row">
+			<div class="col-xl-3 col-lg-4">
+				<div class="product-align product-slider-1">
+					{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider-des.phtml" link_name="View All Products" link_url="#" show_description="1" title_module="New Arrivals" display_countdown="0" product_source="lastest_products" select_category="185,186,187,188,266" product_limitation="3"}}
+					<script type="text/javascript">
+						require([
+							'jquery',
+							'owlcarousel'
+						], function ($) {
+							$(".product-slider-1 .owl-carousel").owlCarousel({
+								autoplay:false,
+								loop:false,
+								nav : true, 
+								dots: false,
+								autoplaySpeed : 500,
+								navSpeed : 500,
+								dotsSpeed : 500,
+								autoplayHoverPause: true,
+								margin:30,
+								
+								responsive: {
+									0: {
+										items: 1
+									},
+									480: {
+										items: 2
+									},
+									768: {
+										items: 2
+									},
+									991: {
+										items: 1
+									},						
+									1200: {
+										items: 1
+									}
+								}
+							});	  
+						});			
+					</script>
+				</div>
+			</div>
+			
+			<div class="col-xl-3 col-lg-4">
+				<div class="product-align product-slider-2">
+					{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider-des.phtml" link_name="View All Products" link_url="#" show_description="1" title_module="Featured Products" display_countdown="0" product_source="featured_products" select_category="" product_limitation="3"}}
+					<script type="text/javascript">
+						require([
+							'jquery',
+							'owlcarousel'
+						], function ($) {
+							$(".product-slider-2 .owl-carousel").owlCarousel({
+								autoplay:false,
+								loop:false,
+								nav : true, 
+								dots: false,
+								autoplaySpeed : 500,
+								navSpeed : 500,
+								dotsSpeed : 500,
+								autoplayHoverPause: true,
+								margin:30,
+								
+								responsive: {
+									0: {
+										items: 1
+									},
+									480: {
+										items: 2
+									},
+									768: {
+										items: 2
+									},
+									991: {
+										items: 1
+									},						
+									1200: {
+										items: 1
+									}
+								}
+							});	  
+						});			
+					</script>
+				</div>
+			</div>
+			
+			<div class="col-xl-3 col-lg-4">
+				<div class="product-align product-slider-3">
+					{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider-des.phtml" link_name="View All Products" link_url="#" show_description="1" title_module="Best Sellers" display_countdown="0" product_source="best_sellers" select_category="97,98,99,101,185,186,187,188,266" product_limitation="3"}}
+					<script type="text/javascript">
+						require([
+							'jquery',
+							'owlcarousel'
+						], function ($) {
+							$(".product-slider-3 .owl-carousel").owlCarousel({
+								autoplay:false,
+								loop:false,
+								nav : true, 
+								dots: false,
+								autoplaySpeed : 500,
+								navSpeed : 500,
+								dotsSpeed : 500,
+								autoplayHoverPause: true,
+								margin:30,
+								
+								responsive: {
+									0: {
+										items: 1
+									},
+									480: {
+										items: 2
+									},
+									768: {
+										items: 2
+									},
+									991: {
+										items: 1
+									},						
+									1200: {
+										items: 1
+									}
+								}
+							});	  
+						});			
+					</script>
+				</div>
+			</div>
+			
+			<div class="col-xl-3  col-lg-12">
+				<div class="deal-slider">
+					{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider-des.phtml" show_description="0" title_module="Deal Of The Day" display_countdown="1" product_source="special_products" select_category="97,98,99,101,185,186,187,188,266" product_limitation="6"}}
+					<script type="text/javascript">
+						require([
+							'jquery',
+							'owlcarousel'
+						], function ($) {
+							$(".deal-slider .owl-carousel").owlCarousel({
+								autoplay:false,
+								loop:false,
+								nav : true, 
+								dots: false,
+								autoplaySpeed : 500,
+								navSpeed : 500,
+								dotsSpeed : 500,
+								autoplayHoverPause: true,
+								margin:30,
+								
+								responsive: {
+									0: {
+										items: 1
+									},
+									480: {
+										items: 2
+									},
+									768: {
+										items: 2
+									},
+									991: {
+										items: 3
+									},						
+									1200: {
+										items: 1
+									}
+								}
+							});	  
+						});			
+					</script>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="banner-full">
+		<div class="static-image">
+			<a href="#" title="Banner Image"><img class="mark-lazy" src="{{media url="wysiwyg/banner/banner-16.jpg"}}" alt="Banner Image" /></a>
+		</div>
+	</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Index 2 - 3 Tab Product Slider - Brand Slider</title>
+			<identifier>id2-block3</identifier>
+			<content>
+				<![CDATA[<div class="tab-product-banner banner-right">
+		{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="Electronics" cmsblock="banner-tab-1" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories"  category_tabs="185,186,187,188,266" order_by="num_rating_summary" order_dir="ASC" limitation="6" product_row="2" show_description="1" nbcolum1="1" nbcolum2="2" nbcolum3="2" nbcolum4="2" nbcolum5="2" margin="30" nav="true" dot="false"}}
+	</div>
+	
+	<div class="tab-product-banner">
+		{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="Fashion" cmsblock="banner-tab-2" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories"  category_tabs="268,269,270,271,272" order_by="num_rating_summary" order_dir="ASC" limitation="6" product_row="2" show_description="1" nbcolum1="1" nbcolum2="2" nbcolum3="2" nbcolum4="2" nbcolum5="2" margin="30" nav="true" dot="false"}}
+	</div>
+	
+	<div class="tab-product-banner banner-right">
+		{{block class="Sm\ListingTabs\Block\ListingTabs" template="Sm_ListingTabs::default.phtml" title="Health & Beauty" cmsblock="banner-tab-3" type_show="slider" type_listing="all" display_countdown="0" type_filter="categories"  category_tabs="189,190,191,192,273" order_by="num_rating_summary" order_dir="ASC" limitation="6" product_row="2" show_description="1" nbcolum1="1" nbcolum2="2" nbcolum3="2" nbcolum4="2" nbcolum5="2" margin="30" nav="true" dot="false"}}
+	</div>
+	
+	<div class="brand-slider">
+		<div class="brand-content">
+			<div class="slider-content">
+				<div class="owl-carousel">
+					<div class="item">
+						<a href="#" title="Brand"><img class="mark-lazy" src="{{media url="wysiwyg/brand/brand-1.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img class="mark-lazy" src="{{media url="wysiwyg/brand/brand-2.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img class="mark-lazy" src="{{media url="wysiwyg/brand/brand-3.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img class="mark-lazy" src="{{media url="wysiwyg/brand/brand-4.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					<div class="item">
+						<a href="#" title="Brand"><img class="mark-lazy" src="{{media url="wysiwyg/brand/brand-5.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img class="mark-lazy" src="{{media url="wysiwyg/brand/brand-6.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img class="mark-lazy" src="{{media url="wysiwyg/brand/brand-1.jpg"}}" alt="Brand Image" /></a>
+					</div>
+					
+					<div class="item">
+						<a href="#" title="Brand"><img class="mark-lazy" src="{{media url="wysiwyg/brand/brand-2.jpg"}}" alt="Brand Image" /></a>
+					</div>
+				</div>
+				
+				<script type="text/javascript">
+					require([
+						'jquery',
+						'owlcarousel'
+					], function ($) {
+						$(".slider-content .owl-carousel").owlCarousel({
+							autoplay:true,
+							loop:false,
+							nav : false, 
+							dots: true,
+							autoplaySpeed : 500,
+							navSpeed : 500,
+							dotsSpeed : 500,
+							autoplayHoverPause: true,
+							margin:0,
+							
+							responsive: {
+								0: {
+									items: 2
+								},
+								480: {
+									items: 3
+								},
+								768: {
+									items: 4
+								},
+								991: {
+									items: 5
+								},						
+								1200: {
+									items: 6
+								}
+							}
+						});	  
+					});			
+				</script>
+			</div>
+		</div>
+	</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Index 2 - Product Slider - Blog - Categories - Services</title>
+			<identifier>id2-block4</identifier>
+			<content>
+				<![CDATA[<div class="product-slider-bottom">
+		{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-grid-slider.phtml" title_module="You may also like" display_countdown="0" product_source="best_sellers" select_category="" product_limitation="8"}}
+		<script type="text/javascript">
+			require([
+				'jquery',
+				'owlcarousel'
+			], function ($) {
+				$(".product-slider-bottom .owl-carousel").owlCarousel({
+					autoplay:false,
+					loop:false,
+					nav : false, 
+					dots: true,
+					autoplaySpeed : 500,
+					navSpeed : 500,
+					dotsSpeed : 500,
+					autoplayHoverPause: true,
+					margin:30,
+					
+					responsive: {
+						0: {
+							items: 1
+						},
+						480: {
+							items: 2
+						},
+						768: {
+							items: 3
+						},
+						991: {
+							items: 4
+						},						
+						1200: {
+							items: 6
+						}
+					}
+				});	  
+			});			
+		</script>
+	</div>
+	
+	<div class="post-slider">
+		{{widget type="Magefan\Blog\Block\Widget\Recent" title="Latest Blog" number_of_posts="6" category_id="0" tag_id="0" author_id="0"}}
+		
+		<script type="text/javascript">
+			require([
+				'jquery',
+				'owlcarousel'
+			], function ($) {
+				$(".post-slider .owl-carousel").owlCarousel({
+					autoplay:false,
+					loop:false,
+					nav : false, 
+					dots: true,
+					autoplaySpeed : 500,
+					navSpeed : 500,
+					dotsSpeed : 500,
+					autoplayHoverPause: true,
+					margin:30,
+					
+					responsive: {
+						0: {
+							items: 1
+						},
+						480: {
+							items: 2
+						},
+						768: {
+							items: 3
+						},
+						991: {
+							items: 4
+						},						
+						1200: {
+							items: 4
+						}
+					}
+				});	  
+			});			
+		</script>
+	</div>
+	
+	<div class="categories-slider">
+		{{block class="Sm\Categories\Block\Categories" template="Sm_Categories::default.phtml"}}
+		
+		<script type="text/javascript">
+			require([
+				'jquery',
+				'owlcarousel'
+			], function ($) {
+				$(".cat-wrap").owlCarousel({
+					autoplay:false,
+					loop:false,
+					nav : false, 
+					dots: true,
+					autoplaySpeed : 500,
+					navSpeed : 500,
+					dotsSpeed : 500,
+					autoplayHoverPause: true,
+					margin:30,
+					
+					responsive: {
+						0: {
+							items: 1
+						},
+						480: {
+							items: 2
+						},
+						768: {
+							items: 3
+						},
+						991: {
+							items: 4
+						},						
+						1200: {
+							items: 5
+						}
+					}
+				});	  
+			});			
+		</script>
+	</div>
+	
+	<div class="full-wrapper full-services">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-3 col-sm-6">
+					<div class="item-service">
+						<div class="sv-icon">
+							<img src="{{media url="wysiwyg/icon/icon-1.png"}}" alt="Services" />
+						</div>
+						
+						<div class="sv-info">
+							<h4>Free Delivery</h4>
+							<p>On Order Over $49.86</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-3 col-sm-6">
+					<div class="item-service">
+						<div class="sv-icon">
+							<img src="{{media url="wysiwyg/icon/icon-2.png"}}" alt="Services" />
+						</div>
+						
+						<div class="sv-info">
+							<h4>Order protection</h4>
+							<p>Secured Information</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-3 col-sm-6">
+					<div class="item-service">
+						<div class="sv-icon">
+							<img src="{{media url="wysiwyg/icon/icon-3.png"}}" alt="Services" />
+						</div>
+						
+						<div class="sv-info">
+							<h4>Promotion Gift</h4>
+							<p>Special Offers!</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-3 col-sm-6">
+					<div class="item-service">
+						<div class="sv-icon">
+							<img src="{{media url="wysiwyg/icon/icon-4.png"}}" alt="Services" />
+						</div>
+						
+						<div class="sv-info">
+							<h4>Money back</h4>
+							<p>Return over 30 Days</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+		<cms_item>
+			<title>Shopping - Contact Store Info</title>
+			<identifier>contact-store-info</identifier>
+			<content>
+				<![CDATA[<div class="title-bonus-page">
+<h2>Contact Us</h2>
+</div>
+<div class="contact-content">
+<p class="contact-description">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br /> Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat sed do eiusmod tempor incididunt ut labore dolore</p>
+<ul class="address-info">
+<li class="add-icon">123 Suspendis mattis, Sollicitudin District,<br />Accums Fringilla</li>
+<li class="email-icon">Email: <a title="Send Email" href="mailto:support@domainstore.com">support@domainstore.com</a></li>
+<li class="phone-icon">Hotline: <a title="Call" href="tel:0123456789">0123456789</a></li>
+</ul>
+</div>]]>
+			</content>
+			<is_active>1</is_active>
+			<store_id>0</store_id>
+		</cms_item>
+	</blocks>
+</root>
